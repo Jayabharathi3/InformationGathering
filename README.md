@@ -20,12 +20,38 @@ Investigate on the various categories of tools as follows:
 ### Step 3:
 Open terminal/browser and try execute necessary commands/use url to perform information gathering
 
+## COMMANDS :
+
+```
+### ANALYSING WEBSITE :
+ FRESHWORKS.COM
+
+### NMAP :
+
+nc 13.33.146.98
+GET /
+
+### WHATWEB :
+
+whatweb freshworks.com
+whatweb -v freshworks.com
+
+### HTTPRINT :
+httprint -h 13.33.146.98 -s /usr/share/httprint/signatures.txt -P0 |more
+
+ ### TCP TRACEOUT :
+sudo traceroute -T www.freshworks.com
+
+ ### UDP TRACEOUT :
+ sudo traceroute -U www.freshworks.coM
+
+ ### ICMP TRACEOUT :
+ sudo traceroute  www.freshworks.com
+
+ ``` 
 
 ## OUTPUT:
-```
- # ANALYSING WEBSITE : FRESHWORKS.COM
-
- ```    
+  
 ## WHOIS :
 ```
 https://www.whois.com/whois/freshworks.com
@@ -41,9 +67,9 @@ https://www.ip2location.com/demo/13.33.146.98
 
 
 ## WEB ARCHIVE :
-
+```
 https://web.archive.org/details/freshworks.com
-
+```
 ![webarchive](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/e3ea2d4f-416b-40a8-8c92-06a007a5886a)
 
 
