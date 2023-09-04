@@ -43,7 +43,7 @@ ping freshworks.com
 ![findip](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/a05a5cad-f854-4435-a5ca-cca791aaad58)
 
 
-## IP2 LOCATION :
+## FINDING THE HOSTING COMPANY :
 
 ```
 https://www.ip2location.com/demo/13.33.146.98
@@ -62,8 +62,7 @@ https://web.archive.org/details/freshworks.com
 ## NMAP :
 
 ```
-nc 13.33.146.98
-GET /
+nmap -p 21 -sV --script=banner 13.33.146.98
 ```
 ![nmap](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/a690e369-4145-4588-9dd9-342de60cf1cf)
 
