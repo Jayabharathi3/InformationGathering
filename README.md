@@ -23,25 +23,56 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 
- # ANALYSING WEBSITE :  FRESHWORKS.COM
+ # ANALYSING WEBSITE : 
+     FRESHWORKS.COM
+     
 ## WHOIS :
+
+![whois](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/b3f44fc8-adab-4d16-8599-e2826dd71a22)
+
 
 ## IP2 LOCATION :
 
+![ip2](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/f0fd71bf-23bf-46a6-bd4a-2e9c213b8495)
+
+
 ## WEB ARCHIVE :
+
+![webarchive](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/e3ea2d4f-416b-40a8-8c92-06a007a5886a)
+
 
 ## NMAP :
 
+![nmap](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/a690e369-4145-4588-9dd9-342de60cf1cf)
+
+
 ## WHATWEB :
+
+![whatweb1](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/5be1040e-c94d-438f-8998-f83c65eb8124)
+
+![whatweb2](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/df8fb68e-bea9-4605-aeba-5d37d8bf7248)
 
 ## HTTPRINT :
 
-# TRACEOUT :
- ## TCP TRACEOUT :
+![httprint](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/58710a23-87df-4cbb-b343-312c3a07a4b7)
 
- ## UDP TRACEOUT :
 
- ## ICMP TRACEOUT :
+## TRACEOUT :
+
+ ### TCP TRACEOUT :
+
+ ![tcp trace](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/b3704e2c-a893-4bd8-8995-2eff8ff33c2f)
+
+
+ ### UDP TRACEOUT :
+
+ ![udp trace](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/a31b12a1-d67c-4d0f-b166-2211faaa3fdb)
+
+
+ ### ICMP TRACEOUT :
+
+ ![icmp trace](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/2d135fb8-5ac8-4ead-8d12-896e4944a327)
+
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
