@@ -20,8 +20,7 @@ Investigate on the various categories of tools as follows:
 ### Step 3:
 Open terminal/browser and try execute necessary commands/use url to perform information gathering
 
-## ANALYSING WEBSITE :
-  FRESHWORKS.COM
+### ANALYSING WEBSITE : FRESHWORKS.COM
  
 ## OUTPUT:
   
