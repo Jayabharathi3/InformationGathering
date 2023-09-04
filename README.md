@@ -20,36 +20,9 @@ Investigate on the various categories of tools as follows:
 ### Step 3:
 Open terminal/browser and try execute necessary commands/use url to perform information gathering
 
-## COMMANDS :
-
-```
-### ANALYSING WEBSITE :
- FRESHWORKS.COM
-
-### NMAP :
-
-nc 13.33.146.98
-GET /
-
-### WHATWEB :
-
-whatweb freshworks.com
-whatweb -v freshworks.com
-
-### HTTPRINT :
-httprint -h 13.33.146.98 -s /usr/share/httprint/signatures.txt -P0 |more
-
- ### TCP TRACEOUT :
-sudo traceroute -T www.freshworks.com
-
- ### UDP TRACEOUT :
- sudo traceroute -U www.freshworks.coM
-
- ### ICMP TRACEOUT :
- sudo traceroute  www.freshworks.com
-
- ``` 
-
+## ANALYSING WEBSITE :
+  FRESHWORKS.COM
+ 
 ## OUTPUT:
   
 ## WHOIS :
