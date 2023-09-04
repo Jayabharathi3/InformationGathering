@@ -33,6 +33,15 @@ https://www.whois.com/whois/freshworks.com
 ```
 ![whois](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/b3f44fc8-adab-4d16-8599-e2826dd71a22)
 
+## FINDING THE IP :
+
+```
+ping freshworks.com
+
+```
+
+![findip](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/a05a5cad-f854-4435-a5ca-cca791aaad58)
+
 
 ## IP2 LOCATION :
 
@@ -42,7 +51,7 @@ https://www.ip2location.com/demo/13.33.146.98
 ![ip2](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/f0fd71bf-23bf-46a6-bd4a-2e9c213b8495)
 
 
-## WEB ARCHIVE :
+## WEB ARCHIVE (HISTORY OF THE WEBSITE) :
 
 ```
 https://web.archive.org/details/freshworks.com
