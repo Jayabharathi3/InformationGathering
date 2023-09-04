@@ -22,7 +22,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## ANALYSING WEBSITE :
-           FRESHWORKS.COM
+     FRESHWORKS.COM
 
  
 ## OUTPUT:
