@@ -24,10 +24,10 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## ANALYSING WEBSITE :
      FRESHWORKS.COM
 
- 
 ## OUTPUT:
   
 ## WHOIS :
+
 ```
 https://www.whois.com/whois/freshworks.com
 ```
@@ -35,6 +35,7 @@ https://www.whois.com/whois/freshworks.com
 
 
 ## IP2 LOCATION :
+
 ```
 https://www.ip2location.com/demo/13.33.146.98
 ```
@@ -42,6 +43,7 @@ https://www.ip2location.com/demo/13.33.146.98
 
 
 ## WEB ARCHIVE :
+
 ```
 https://web.archive.org/details/freshworks.com
 ```
@@ -49,6 +51,7 @@ https://web.archive.org/details/freshworks.com
 
 
 ## NMAP :
+
 ```
 nc 13.33.146.98
 GET /
@@ -57,43 +60,55 @@ GET /
 
 
 ## WHATWEB :
+
 ```
 whatweb freshworks.com
 ```
+
 ![whatweb1](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/5be1040e-c94d-438f-8998-f83c65eb8124)
+
 
 ```
 whatweb -v freshworks.com
 ```
+
 ![whatweb2](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/df8fb68e-bea9-4605-aeba-5d37d8bf7248)
 
 ## HTTPRINT :
+
 ```
 httprint -h 13.33.146.98 -s /usr/share/httprint/signatures.txt -P0 |more
 ```
+
 ![httprint](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/58710a23-87df-4cbb-b343-312c3a07a4b7)
 
 
 ## TRACEOUT :
 
  ### TCP TRACEOUT :
+ 
 ```
  sudo traceroute -T www.freshworks.com
 ```
+
  ![tcp trace](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/b3704e2c-a893-4bd8-8995-2eff8ff33c2f)
 
 
  ### UDP TRACEOUT :
+ 
 ```
 sudo traceroute -U www.freshworks.com
 ```
+
  ![udp trace](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/a31b12a1-d67c-4d0f-b166-2211faaa3fdb)
 
 
  ### ICMP TRACEOUT :
+ 
 ```
  sudo traceroute  www.freshworks.com
 ```
+
  ![icmp trace](https://github.com/Jayabharathi3/InformationGathering/assets/120367796/2d135fb8-5ac8-4ead-8d12-896e4944a327)
 
 
