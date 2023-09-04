@@ -23,6 +23,25 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 
+ # ANALYSING WEBSITE :  FRESHWORKS.COM
+## WHOIS :
+
+## IP2 LOCATION :
+
+## WEB ARCHIVE :
+
+## NMAP :
+
+## WHATWEB :
+
+## HTTPRINT :
+
+# TRACEOUT :
+ ## TCP TRACEOUT :
+
+ ## UDP TRACEOUT :
+
+ ## ICMP TRACEOUT :
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
